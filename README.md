@@ -1,2 +1,2 @@
 # covid-19-data-analysis
-covid-19 deaths and vaccination analysis on SQL
+covid-19 deaths and vaccinations data analysis on SQL
