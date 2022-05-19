@@ -1,7 +1,7 @@
 # covid-19-data-analysis
 
 Data collection :
-I collected the data from https://ourworldindata.org/covid-deaths 
+Collected the data from https://ourworldindata.org/covid-deaths 
 
 Data cleaning :
 Used google sheets to clean the data, cleaned and seperated the entire dataset into two different csv files for easier analysis of covid deaths and covid vaccination details.
